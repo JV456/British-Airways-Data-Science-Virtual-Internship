@@ -56,4 +56,4 @@ The aim of this task was to explore and prepare a dataset for predictive modelin
 The British Airways Data Science Virtual Internship provided valuable experience in web scraping, data analysis, and machine learning model development. The tasks completed during this internship have enhanced my skills in these areas and provided practical experience with real-world data.
 
 
-
+## Completion Certificate link: [here](British Airways Virtual Internship certificate.pdf).

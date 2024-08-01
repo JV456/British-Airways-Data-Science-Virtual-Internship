@@ -57,4 +57,4 @@ The British Airways Data Science Virtual Internship provided valuable experience
 
 
 ## Completion Certificate
-[Certificate](British Airways Virtual Internship certificate.pdf).
+[Certificate](British_Airways_Virtual_Internship_certificate.pdf).
